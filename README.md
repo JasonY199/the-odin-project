@@ -11,3 +11,7 @@ We are not doing any CSS for this project, so the website will be very basic and
 Although the project is simple, it is a good way to practice HTML and get familiar with the basics of web development. As I begin my road of becoming a full-stack developer, this is a good refresher of just some basic HTML.
 
 I don't want to skip any projects in the curriculum, so I will be doing this project as well.
+
+## Some changes I made
+
+I added some extra links and didn't bother adding ingredients or instructions to the recipes. I just wanted to practice creating links and linking to different pages. This is all super basic stuff, so I do not want to waste too much time on it. I will be moving on to the next project soon.
