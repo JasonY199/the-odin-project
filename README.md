@@ -15,3 +15,7 @@ I don't want to skip any projects in the curriculum, so I will be doing this pro
 ## Some changes I made
 
 I added some extra links and didn't bother adding ingredients or instructions to the recipes. I just wanted to practice creating links and linking to different pages. This is all super basic stuff, so I do not want to waste too much time on it. I will be moving on to the next project soon.
+
+## What I learned
+
+I didn't learn anything new from this project. I just practiced some basic HTML. However, setting up a git SSH key was valuable to learn. Also, hosting a live preview using GitHub Pages was a good experience.
