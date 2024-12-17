@@ -192,13 +192,19 @@ ul {
 }
 
 #testimonials-section {
-    padding: 120px 10%;
+    padding: 120px 0;
     background-image: url("./images/testimonials-background.webp");
     background-position: 50% 100%;
 }
 
 #testimonials-section::before {
     background: rgba(0, 0, 0, 0.85);
+}
+
+#testimonials-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    color: var(--white-color);
 }
 
 .testimonial-text {
@@ -218,3 +224,4 @@ ul {
     margin-right: 10%;
     margin-top: 10px;
 }
+
