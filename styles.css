@@ -298,6 +298,21 @@ ul {
   margin-top: 10px;
 }
 
+@media (max-width: 550px) {
+  #testimonials-text-wrapper .section-title {
+    font-size: 2.6rem;
+  }
+  #testimonials-text-wrapper .add-margin-below {
+    margin-bottom: 70px;
+  }
+  .testimonial-text {
+    font-size: 1.6rem;
+  }
+  .testimonial-author {
+    margin-top: 20px;
+  }
+}
+
 #new-patient-section {
   padding: var(--section-padding);
   color: var(--white-color);
