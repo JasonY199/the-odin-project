@@ -32,6 +32,8 @@ a:hover {
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -90,6 +92,11 @@ ul {
   align-items: center;
 }
 
+#logo-img {
+  height: 120px;
+  display: block;
+}
+
 #nav-links {
   display: flex;
   justify-content: end;
@@ -103,10 +110,18 @@ ul {
   text-align: center;
 }
 
-#logo-img {
-  height: 120px;
-  display: block;
-  flex-shrink: 1;
+/* Nav responsive settings */
+@media (max-width: 700px) {
+  #nav-links {
+    gap: 13px;
+    flex-direction: column;
+  }
+  #nav-links li {
+    text-align: right;
+  }
+  #nav-links a {
+    font-size: 1.3rem;
+  }
 }
 
 #hero-section {
