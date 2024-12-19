@@ -369,6 +369,21 @@ ul {
   box-shadow: 0px 0px 15px 1px var(--white-color);
 }
 
+@media (max-width: 640px) {
+  #patient-card {
+    padding: 60px 35px;
+  }
+  #patient-card .section-title {
+    font-size: 2rem;
+  }
+  #patient-card p {
+    font-size: 1.4rem;
+  }
+  #patient-card button {
+    font-size: 1.6rem;
+  }
+}
+
 #footer-section {
   background-color: var(--orange-color);
   box-shadow: 0 10px 10px 10px var(--orange-color);
