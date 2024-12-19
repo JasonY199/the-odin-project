@@ -295,10 +295,15 @@ ul {
   box-shadow: 0 10px 10px 10px var(--orange-color);
 }
 
+#footer-section .container {
+  padding: 16px 0 13px;
+}
+
 #footer-section p {
   color: var(--white-color);
   font-size: 1.1rem;
   font-weight: 300;
-  padding: 12px 0;
+  padding: 0;
   text-align: center;
+  margin: 0;
 }
