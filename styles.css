@@ -210,6 +210,8 @@ ul {
   display: flex;
   flex-direction: row;
   gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .service-item {
@@ -217,6 +219,8 @@ ul {
   flex-direction: column;
   gap: 23px;
   align-items: center;
+  flex: 1 1 calc(25% - 25px);
+  max-width: calc(25% - 25px);
 }
 
 .service-item img {
@@ -233,6 +237,31 @@ ul {
   color: var(--orange-color);
   text-align: center;
   line-height: 2rem;
+}
+
+/* Service section medium screen responsive settings */
+@media (max-width: 900px) {
+  #services-wrapper {
+    gap: 50px;
+  }
+  .service-item {
+    flex: 1 1 calc(50% - 35px); /* 2 rows */
+    max-width: calc(40%);
+  }
+  #services-section .section-title {
+    font-size: 2.3rem;
+  }
+}
+
+/* Service section small screen responsive settings */
+@media (max-width: 600px) {
+  #services-wrapper {
+    gap: 70px;
+  }
+  .service-item {
+    flex: 1 1 calc(100% - 35px); /* 2 rows */
+    max-width: calc(95%);
+  }
 }
 
 #testimonials-section {
