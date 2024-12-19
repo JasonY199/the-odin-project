@@ -391,6 +391,9 @@ ul {
 
 #footer-section .container {
   padding: 16px 0 13px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
 
 #footer-section p {
@@ -400,4 +403,11 @@ ul {
   padding: 0;
   text-align: center;
   margin: 0;
+}
+
+@media (max-width: 530px) {
+  #footer-section .container {
+    flex-direction: column;
+    gap: 5px;
+  }
 }
