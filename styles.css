@@ -262,6 +262,9 @@ ul {
     flex: 1 1 calc(100% - 35px); /* 2 rows */
     max-width: calc(95%);
   }
+  #services-section .section-title {
+    max-width: 90%;
+  }
 }
 
 #testimonials-section {
