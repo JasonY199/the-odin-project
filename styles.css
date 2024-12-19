@@ -1,5 +1,6 @@
 :root {
   --orange-color: #ff583b;
+  --transparent-orange-color: #ff583bf5;
   --white-color: #ffffff;
   --max-width-large-screen: 1000px;
   --section-padding: 120px 0;
@@ -146,18 +147,20 @@ ul {
   font-size: 1.8rem;
   font-weight: 600;
   padding: 13px 20px 10px;
-  background-color: var(--orange-color);
+  background-color: var(--transparent-orange-color);
   color: var(--white-color);
   border: 2px solid transparent;
-  border-radius: 10px;
+  border-radius: 15px;
   cursor: pointer;
 }
 
 #hero-text-wrapper button:hover {
   background-color: transparent;
-  border: 2px solid var(--orange-color);
+  border: 2px solid rgba(255, 255, 255, 0.55);
+  color: var(--orange-color);
+  background-color: rgba(255, 255, 255, 0.83);
   box-sizing: border-box;
-  box-shadow: 0px 0px 15px 10px rgb(255, 255, 255, 0.15);
+  box-shadow: 2px 2px 15px 0px rgb(255, 255, 255, 0.55);
 }
 
 #services-section {
