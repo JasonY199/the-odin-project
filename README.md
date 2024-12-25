@@ -5,10 +5,14 @@ This repository contains my projects from The Odin Project's **Foundations** cou
 ## Projects
 
 ### [Recipes Project](./recipes-project)
+
 - A basic HTML-only project that serves as a recipe website with multiple pages.
 - Focused on learning fundamental HTML structure and linking pages together.
 
-### [Landing Page Project](./landing-page)
+### [Shinny Teeth Dental](./shiny-teeth-dental) - Landing Page Project
+
+View live demo [here](https://odin-projects.netlify.app/shiny-teeth-dental/).
+
 - A simple, responsive landing page created for a fictional company, **Shiny Teeth Dental**.
 - Designed from scratch in Figma, then implemented using HTML and CSS.
 - Features a mobile and tablet-friendly layout for better accessibility.

@@ -1,6 +1,6 @@
-# Landing Page Project
+# Shiny Teeth Dental
 
-This is a landing page project from TOP in the foundations course.
+This is the landing page project from TOP in the foundations course.
 
 Shiny Teeth Dental's landing page is just a simple one page website that has a header, a call to action, a few sections about the company, and a footer. The project is to practice using HTML and CSS to create a simple landing page.
 
@@ -25,7 +25,7 @@ Went ahead and made the landing page be responsive for mobile and tablet screens
 
 - View [Figma design image](./my-design/figma-design.png) that I made before starting the project.
 
-- View [live site](https://jasony199.github.io/odin-landing-page/) preview online now.
+- View [live site](https://odin-projects.netlify.app/shiny-teeth-dental/) preview online now.
 
 - Click [here](https://www.theodinproject.com/lessons/foundations-landing-page) to preview the project requirements on Odin.
 
