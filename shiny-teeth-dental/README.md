@@ -25,7 +25,7 @@ Went ahead and made the landing page be responsive for mobile and tablet screens
 
 - View [Figma design image](./my-design/figma-design.png) that I made before starting the project.
 
-- View [live site](https://odin-projects.netlify.app/shiny-teeth-dental/) preview online now.
+- View [live site](https://jason-odin.netlify.app/shiny-teeth-dental/) preview online now.
 
 - Click [here](https://www.theodinproject.com/lessons/foundations-landing-page) to preview the project requirements on Odin.
 
