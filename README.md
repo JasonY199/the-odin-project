@@ -11,7 +11,7 @@ This repository contains my projects from The Odin Project's **Foundations** cou
 
 ### [Shinny Teeth Dental](./shiny-teeth-dental) - Landing Page Project
 
-View live demo [here](https://jason-odin.netlify.app/shiny-teeth-dental/).
+View live demo [here](https://odin.jasony.dev/shiny-teeth-dental/).
 
 - A simple, responsive landing page created for a fictional company, **Shiny Teeth Dental**.
 - Designed from scratch in Figma, then implemented using HTML and CSS.
