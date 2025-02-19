@@ -2,6 +2,10 @@
 
 This repository contains my projects from The Odin Project's **Foundations** course. Each project is housed in its own folder, complete with detailed descriptions and supporting files.
 
+## Repository Update 2025
+
+I will no longer be using this repo to combine all the Odin projects into one repo. Will be leaving this repo here to preserve all the commit histories, however, will be creating a seperate repo for each new project going forward.
+
 ## Projects
 
 ### [Recipes Project](./recipes-project)
